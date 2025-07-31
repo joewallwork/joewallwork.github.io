@@ -5,32 +5,53 @@
 Software
 ========
 
-Projects I currently work on:
-
-* `Animate <https://github.com/mesh-adaptation/animate/>`__ (lead developer):
-  Python-based anisotropic mesh adaptation toolkit for Firedrake.
-* `Movement <https://github.com/mesh-adaptation/movement/>`__ (lead developer):
-  Python-based mesh movement toolkit for Firedrake.
-* `Goalie <https://github.com/mesh-adaptation/goalie/>`__ (lead developer):
-  Python-based goal-oriented error estimation and mesh adaptation tool for
-  Firedrake.
-* `FTorch <https://cambridge-iccs.github.io/FTorch/>`__ (core developer):
-  A library for coupling PyTorch models to Fortran.
-* `GISS-GC <https://github.com/fetch4/GISS-GC>`__ (core developer):
-  Coupling an atmospheric chemical transport model and a general circulation
-  model, both written in Fortran.
-* `UKCA <https://www.ukca.ac.uk/wiki/index.php/UKCA>`__ (developer):
-  Fortran-based atmospheric chemistry model.
-* `PSyclone <https://github.com/stfc/psyclone>`__ (contributor):
-  Python-based domain-specific compiler and code transformation system for
-  Earth-system models written in Fortran.
-
-Projects I worked on in the past:
+Software I am currently actively contributing to:
 
 .. toctree::
    :maxdepth: 1
 
+   FTorch (core developer, maintainer) <ftorch>
    nextSIM-DG (developer) <nextsimdg>
+   UKCA (contributor) <ukca>
+   PSyclone (contributor) <psyclone>
+   Animate (lead developer, maintainer) <animate>
+   Goalie (lead developer, maintainer) <goalie>
+   Movement (lead developer, maintainer) <movement>
+
+Software I have actively contributed to in the past:
+
+.. toctree::
+   :maxdepth: 1
+
    PETSc (contributor) <petsc>
    Firedrake (developer) <firedrake>
    Thetis (core developer) <thetis>
+   GEOS-Chem (contributor) <geos-chem>
+
+Software projects I currently work on:
+
+.. toctree::
+   :maxdepth: 1
+
+   Online training in FTorch <projects/ftorch>
+   nextSIM-DG I/O <projects/nextsimdg>
+   UKCA GPU port <projects/ukca-gpu-port>
+   Data-driven mesh adaptation <projects/data-driven-adapt>
+   Combining mesh adaptation and PDE-constrained optimisation <projects/opt-adapt>
+
+Ongoing software maintenance projects:
+
+.. toctree::
+   :maxdepth: 1
+
+   Packages supporting mesh adaptation in Firedrake <projects/adapt-packages>
+
+Software projects I worked on in the past:
+
+.. toctree::
+   :maxdepth: 1
+
+   GISS-GC coupling <projects/giss-gc>
+   Adjoint-based inversion for coastal ocean modelling <projects/thetis>
+   Coupling mesh adaptation tools Mmg and ParMmg to PETSc and Firedrake <projects/ecse-mmg>
+   Automatic differentiation in PETSc <projects/anl>
