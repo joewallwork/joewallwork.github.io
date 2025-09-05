@@ -5,6 +5,15 @@
 Presentations
 =============
 
+Workshops hosted
+^^^^^^^^^^^^^^^^
+
+**2025**
+
+* `*Machine learning coupling workshop*
+  <https://cambridge-iccs.github.io/ml-coupling-workshop>`__, University of
+  Cambridge, UK (co-hosted with Jack Atkinson, supported by Kerstin Enright).
+
 Conference, workshop, and seminar talks
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
