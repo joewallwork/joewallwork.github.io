@@ -13,10 +13,10 @@ the following links.
 .. toctree::
    :maxdepth: 1
 
-   Academic publications <publications>
-   Software projects <software/index>
-   Presentations <presentations>
-   Teaching and Supervision <teaching>
+   Academic publications <https://joewallwork.com/pwp/publications.html>
+   Software projects <https://joewallwork.com/pwp/software/index.html>
+   Presentations <https://joewallwork.com/pwp/presentations.html>
+   Teaching and Supervision <https://joewallwork.com/pwp/teaching.html>
 
 My online profiles:
 
