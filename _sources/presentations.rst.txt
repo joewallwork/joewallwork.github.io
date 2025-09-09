@@ -10,7 +10,7 @@ Workshops hosted
 
 **2025**
 
-* `*Machine learning coupling workshop*
+* `<em>Machine learning coupling workshop<\em>
   <https://cambridge-iccs.github.io/ml-coupling-workshop>`__, University of
   Cambridge, UK (co-hosted with Jack Atkinson, supported by Kerstin Enright).
 
@@ -19,14 +19,14 @@ Conference sessions convened
 
 **2025**
 
-* Green RSE birds of a feather session, `RSECon
-  <https://rsecon25.society-rse.org/>`__, University of Warwick, UK (co-convened
+* *Green RSE* birds of a feather session, `RSECon
+  <https://rsecon25.society-rse.org>`__, University of Warwick, UK (co-convened
   with Kirsty Pringle, James Tyrell, Sadie Bartholomew, Colin Sauze, Loïc
   Lannelongue, Surbhi Goel).
-* `Fortran index <github.com/fortran-index/fortran-index>`__ session, `Back to
-  the Fortran Future II
-  <https://rsecon25.society-rse.org/back-to-fortran-future-2>__` satellite event
-  of `RSECon <https://rsecon25.society-rse.org/>`__, University of Warwick, UK.
+* `<em>Fortran index<\em> <github.com/fortran-index/fortran-index>`__ session,
+  `Back to the Fortran Future II
+  <https://rsecon25.society-rse.org/back-to-fortran-future-2>`__ satellite event
+  of `RSECon <https://rsecon25.society-rse.org>`__, University of Warwick, UK.
 
 Conference, workshop, and seminar talks
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -34,8 +34,8 @@ Conference, workshop, and seminar talks
 **2025**
 
 * *Accelerating UKCA by predicting timesteps with FTorch*, lightning talk in the
-  `Geoscience Special Interest Group Session at `RSECon
-  <https://rsecon25.society-rse.org/>`__, University of Warwick, UK.
+  Geoscience Special Interest Group Session at `RSECon
+  <https://rsecon25.society-rse.org>`__, University of Warwick, UK.
 * *FTorch - Facilitating Hybrid Modelling*, `Department of Atmospheric, Oceanic,
   and Planetary Physics
   <https://www.physics.ox.ac.uk/research/subdepartment/atmospheric-oceanic-and-planetary-physics>`__,
