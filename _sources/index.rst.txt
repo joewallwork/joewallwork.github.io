@@ -15,6 +15,7 @@ the following links.
 
    Academic publications <https://joewallwork.com/pwp/publications.html>
    Software projects <https://joewallwork.com/pwp/software/index.html>
+   Community involvement <https://joewallwork.com/pwp/community/index.html>
    Presentations <https://joewallwork.com/pwp/presentations.html>
    Teaching and Supervision <https://joewallwork.com/pwp/teaching.html>
 
