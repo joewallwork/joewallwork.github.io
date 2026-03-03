@@ -5,8 +5,11 @@
 Joseph G. Wallwork
 ==================
 
-I'm a research software engineer (RSE) at the
-`Institute of Computing for Climate Science (ICCS) <https://iccs.cam.ac.uk/>`__.
+I'm a Senior Research Software Engineer (RSE) at the
+`Institute of Computing for Climate Science (ICCS) <https://iccs.cam.ac.uk/>`__
+at the University of Cambridge, UK. I also do consultancy work as a self-employed
+RSE.
+
 To find out more about the kind of research software I work on, take a look at
 the following links.
 
@@ -18,6 +21,7 @@ the following links.
    Community involvement <https://joewallwork.com/pwp/community/index.html>
    Presentations <https://joewallwork.com/pwp/presentations.html>
    Events organised <https://joewallwork.com/pwp/events.html>
+   Blog posts and interviews <https://joewallwork.com/pwp/blogs.html>
    Teaching and Supervision <https://joewallwork.com/pwp/teaching.html>
 
 My online profiles:
